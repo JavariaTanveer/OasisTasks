@@ -10,7 +10,7 @@ Task 2: UNEMPLOYMENT ANALYSIS WITH PYTHON
 DataSet: https://www.kaggle.com/datasets/gokulrajkmv/unemployment-in-india
 Repo:
 
-Task 3: CAR PRICE PREDICTION WITH MACHINE LEARNING
+Task 3: Sales Prediction Using Python
 DataSet: https://www.kaggle.com/datasets/bumba5341/advertisingcsv
 Repo: 
 
